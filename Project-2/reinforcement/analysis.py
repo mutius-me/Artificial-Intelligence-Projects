@@ -61,6 +61,7 @@ def question3e():
 
     
 def question6():
+    return 'NOT POSSIBLE'
     answerEpsilon = None
     answerLearningRate = None
     return answerEpsilon, answerLearningRate
