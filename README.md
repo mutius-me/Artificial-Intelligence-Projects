@@ -1,5 +1,5 @@
 # CPSC-370
-A repository for the projects I produced for CPSC 370, Artificial Intelligence, at Yale University in Fall 2023. Namely, this is my solution to UC Berkeley's open-source Pac-Man Projects.
+Projects 1-3 are my solutions to UC Berkeley's open-source Pac-Man Projects. Project 4 is a practice neural network implementation.
 
 From [the official project website](http://ai.berkeley.edu/project_overview.html):
 > The Pac-Man projects were developed for UC Berkeley's introductory artificial intelligence course, CS 188. They apply an array of AI techniques to playing Pac-Man. However, these projects don't focus on building AI for video games. Instead, they teach foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
