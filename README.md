@@ -1,4 +1,4 @@
-# CPSC-370
+# Artificial Intelligence Personal Projects
 Projects 1-3 are my solutions to UC Berkeley's open-source Pac-Man Projects. Project 4 is a practice neural network implementation.
 
 From [the official project website](http://ai.berkeley.edu/project_overview.html):
